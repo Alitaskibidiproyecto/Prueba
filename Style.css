@@ -1,0 +1,25 @@
+body {
+    background-color: #f8e8f5;
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    color: #4a235a;
+    margin: 40px;
+}
+
+h1 {
+    color: #8e44ad;
+    font-size: 40px;
+    background-color: #e8c7e8;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+p {
+    color: #5b3b63;
+    font-size: 20px;
+    line-height: 1.6;
+    background-color: #ffffff;
+    padding: 25px;
+    border: 2px solid #c084c9;
+    border-radius: 15px;
+}
